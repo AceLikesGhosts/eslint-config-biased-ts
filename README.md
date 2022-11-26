@@ -4,6 +4,14 @@ INTRODUCTION
 eslint-config-biased-ts is a couple of heavily biased Eslint configuration files, made to both enforce
 [my](https://github.com/acelikesghosts) biased styling, and to help bootstrap my other projects.
 
+WARNING
+------------
+
+> This package has been moved over to the [biased-ts](https://www.npmjs.com/package/@biased-ts/eslint-config-biased-ts) organization. 
+
+
+> Source code can now be found on the [biased-ts GitHub](https://github.com/biased-ts)
+
 INSTALLATION
 ------------
  
